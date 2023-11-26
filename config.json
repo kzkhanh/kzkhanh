@@ -1,0 +1,144 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "version": "16.7.0",
+    "notiGroup": true,
+    "NOTIFICATION": true,
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "accpetPending": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "❤"
+    },
+    "autoClear": [],
+    "adminOnly": false,
+    "duyetbox": true,
+    "encryptSt": true,
+    "UPTIME": 558471.9730499659,
+    "autoRestart": 0,
+    "commandDisabled": [
+        "cap.js",
+        "simvoice.js"
+    ],
+    "eventDisabled": [
+        "antibdbot.js",
+        "rule.js"
+    ],
+    "configApi": {
+        "domain": "https://randomapi.ngojchaan.repl.co/"
+    },
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "ᖽᐸｚ_𝙱𝚘𝚝 💫🌟🔥",
+    "ADMIN": "Kz Khánhh",
+    "PREFIX": "#",
+    "ICON": "🌟",
+    "ADMINBOT": [
+        "100081129610697",
+        "100085279261059"
+    ],
+    "NDH": [
+        "100081129610697"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "utils/facebook.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "online": false
+    },
+    "antinamebot": {
+        "status": false
+    },
+    "cauca": {
+        "APIKEY": ""
+    },
+    "cave": {
+        "cooldownTime": 100000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 50000
+    },
+    "fb": {
+        "API_KEY": "FI6bX3kC"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 220
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "poke": {
+        "APIKEY": ""
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sim": {
+        "APIKEY": "API-1234-abcd-1234-abcd"
+    },
+    "sub": {
+        "APIKEY": ""
+    },
+    "work": {
+        "cooldownTime": 150000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "zombie": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": "",
+        "sendNoti": true,
+        "timeToUnsend": 20
+    },
+    "log": {
+        "enable": true
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "đuaxe": {
+        "key": "cuongngu"
+    },
+    "vieclam": {
+        "cooldownTime": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "diemdanh": {
+        "cooldownTime": 86400000,
+        "rewardCoin": 5000,
+        "rewardExp": 1000
+    }
+}

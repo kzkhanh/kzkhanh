@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"a0f7e50a0b0048add18737f56800090f","lockfileHash":"cdfb80a445d9c3baa2aa0931eb41f2a5","guessedImports":["fs-extra","chalk","chalkercli","gradient-string","node-fetch","fca-horizon-remastered","aes-js","express","moment-timezone","sequelize"],"guessedImportsHash":"63669fba0eaff8f20efeaaf3e1a42962"}}}
